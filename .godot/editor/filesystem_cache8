@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710613913
+0a3b39cddc0aa6cc786e5a3be09b6389.jpg::CompressedTexture2D::7322904018808242079::1710613179::1710613180::1::::<><>::
+icon.svg::CompressedTexture2D::6678878679594273631::1710608138::1710608145::1::::<><>::
+lovedeath.jpg::CompressedTexture2D::6243557611126356200::1710613146::1710613146::1::::<><>::
+oven1.jpg::CompressedTexture2D::8437983068615556067::1710613913::1710613913::1::::<><>::
+sprite_2d.tscn::PackedScene::7108426673945801365::1710613879::0::1::::<><>::uid://cu7oqm2fxoaua::::res://lovedeath.jpg<>res://Sprite2D.gd
+Sprite2D.gd::GDScript::-1::1710613205::0::1::::<>Sprite2D<>::
